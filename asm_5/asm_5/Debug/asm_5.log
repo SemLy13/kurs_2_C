@@ -1,0 +1,4 @@
+﻿  asm_5.cpp
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_5\asm_5\asm_5.cpp(20): warning C4405: str: идентификатор является зарезервированным словом
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_5\asm_5\asm_5.cpp(67): warning C4405: str: идентификатор является зарезервированным словом
+  asm_5.vcxproj -> C:\PABCWork.NET\kurs_2\C#,С++ console\asm_5\Debug\asm_5.exe

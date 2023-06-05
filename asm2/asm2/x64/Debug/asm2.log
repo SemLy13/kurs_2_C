@@ -1,0 +1,60 @@
+﻿  asm2.cpp
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(12,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(13,9): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(13,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(13,13): error C2065: ecx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(14,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "shr"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(14,9): error C2065: shr: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(14,13): error C2065: ecx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(15,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(15,9): error C2065: add: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(15,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(15,13): error C2065: ecx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(16,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(16,9): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(16,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "prime"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(17,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(17,9): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(17,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "divisor"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(18,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(18,9): error C2065: jmp: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(18,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check_divisor"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(18,13): error C2065: check_divisor: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(20,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "next_divisor"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(21,9): error C2065: add: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(21,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "divisor"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(22,13): error C2065: cmp: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(22,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "divisor"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(22,26): error C2065: ecx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(23,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jge"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(23,13): error C2065: jge: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(23,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "is_prime"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check_divisor"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(23,17): warning C4551: в вызове функции отсутствует список аргументов
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(26,9): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(26,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(26,13): error C2065: eax: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(27,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cdq"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(27,13): error C2065: cdq: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(28,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "div"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(28,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "divisor"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(28,13): warning C4551: в вызове функции отсутствует список аргументов
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(29,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(29,13): error C2065: cmp: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(29,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(29,17): error C2065: edx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "je"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(30,13): error C2065: je: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(30,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "not_prime"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(30,16): error C2065: not_prime: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(31,13): error C2065: jmp: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(31,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "next_divisor"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(31,17): error C2065: next_divisor: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(33,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "not_prime"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(34,9): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(34,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "prime"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(36,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "is_prime"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm2\asm2\asm2.cpp(37,5): error C2059: синтаксическая ошибка: }

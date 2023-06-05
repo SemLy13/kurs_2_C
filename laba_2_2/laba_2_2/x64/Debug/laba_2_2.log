@@ -1,0 +1,6 @@
+﻿  laba_2_2.cpp
+C:\PABCWork.NET\kurs_2\C#,С++ console\laba_2_2\laba_2_2\laba_2_2.cpp(15,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\PABCWork.NET\kurs_2\C#,С++ console\laba_2_2\laba_2_2\laba_2_2.cpp(19,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\PABCWork.NET\kurs_2\C#,С++ console\laba_2_2\laba_2_2\laba_2_2.cpp(32,24): error C2664: "MyString::MyString(char *)": невозможно преобразовать аргумент 1 из "const char [6]" в "char *"
+C:\PABCWork.NET\kurs_2\C#,С++ console\laba_2_2\laba_2_2\laba_2_2.cpp(32,17): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\PABCWork.NET\kurs_2\C#,С++ console\laba_2_2\laba_2_2\laba_2_2.cpp(10,5): message : см. объявление "MyString::MyString"

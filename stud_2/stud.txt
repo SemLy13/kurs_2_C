@@ -1,0 +1,13 @@
+Petrov 2002 4.1
+Sidorov1 2000 3.2
+Ivanov13 1999 4.6
+Petrov15 2002 4.1
+Sidorov6 2000 3.2
+Ivanov 1999 4.6
+Petrov9 2002 4.1
+Sidorov10 2000 3.2
+Ivanov4 1999 4.6
+Petrov1 2002 4.1
+Sidorov 2000 3.2
+Ivanov10 1999 4.6
+

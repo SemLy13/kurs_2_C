@@ -1,0 +1,76 @@
+﻿  asm_3_1.cpp
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(10,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(11,9): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(11,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(11,13): error C2065: ecx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(13,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "digit_loop"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(14,9): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(14,13): error C2065: eax: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(14,18): error C2065: ecx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(15,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cdq"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(15,13): error C2065: cdq: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(16,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(16,13): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(16,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(16,17): error C2065: ebx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(17,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "div"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(17,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(17,13): warning C4551: в вызове функции отсутствует список аргументов
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(17,17): error C2065: ebx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(18,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(18,13): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(18,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(18,17): error C2065: ecx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(18,22): error C2065: eax: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(19,13): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(19,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(19,17): error C2065: edx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(20,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(20,13): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(20,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(20,17): error C2065: eax: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(20,22): error C2065: edx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(21,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "inc"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(21,13): error C2065: inc: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(21,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "digit_counts"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(21,30): error C2065: eax: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(22,13): error C2065: cmp: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(22,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "digit_counts"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(22,30): error C2065: eax: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(23,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jne"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(23,13): error C2065: jne: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(23,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check_unique_digits"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(23,17): error C2065: check_unique_digits: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(24,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "inc"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(24,13): error C2065: inc: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(24,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "unique_digits"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(26,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check_unique_digits"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(27,9): error C2065: cmp: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(27,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "unique_digits"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(28,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jge"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(28,13): error C2065: jge: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(28,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "not_dvoyaki"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(28,17): error C2065: not_dvoyaki: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(29,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(29,13): error C2065: cmp: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(29,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(29,17): error C2065: ecx: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jg"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(30,13): error C2065: jg: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(30,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "digit_loop"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(30,16): error C2065: digit_loop: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(31,13): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(31,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "unique_digits"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(32,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(32,13): error C2065: jmp: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(32,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(34,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "not_dvoyaki"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(32,17): warning C4551: в вызове функции отсутствует список аргументов
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(35,9): error C2065: mov: необъявленный идентификатор
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(35,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "unique_digits"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(37,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end"
+C:\PABCWork.NET\kurs_2\C#,С++ console\asm_3_1\asm_3_1\asm_3_1.cpp(38,5): error C2059: синтаксическая ошибка: }

@@ -1,0 +1,8 @@
+﻿  Set.cpp
+C:\PABCWork.NET\kurs_2\C#,С++ console\Set\Set\Set.cpp(75,42): warning C4305: инициализация: усечение из "double" в "float"
+C:\PABCWork.NET\kurs_2\C#,С++ console\Set\Set\Set.cpp(95,13): warning C4305: аргумент: усечение из "double" в "TypeE"
+          with
+          [
+              TypeE=float
+          ]
+  Set.vcxproj -> C:\PABCWork.NET\kurs_2\C#,С++ console\Set\x64\Debug\Set.exe

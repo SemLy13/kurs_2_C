@@ -1,0 +1,5 @@
+﻿  MyString.cpp
+C:\PABCWork.NET\kurs_2\C#,С++ console\MyString\MyString\MyString.cpp(24,24): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\PABCWork.NET\kurs_2\C#,С++ console\MyString\MyString\MyString.cpp(32,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\PABCWork.NET\kurs_2\C#,С++ console\MyString\MyString\MyString.cpp(33,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MyString.vcxproj -> C:\PABCWork.NET\kurs_2\C#,С++ console\MyString\x64\Debug\MyString.exe
